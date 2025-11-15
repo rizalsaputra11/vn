@@ -1,0 +1,255 @@
+{
+  "discord_token": "MTM2ODI5NTc2NzY3MTk2NzgyNQ.GqzXCf.jOLGYAu_j40Ed5DR311H727yB0CLTuPyrfavzI",
+  "convoy_api_url": "https://vm.voidnodes..xyz",
+  "convoy_api_key": "1|U7qwVkq75LXVoclbbav43hTT3ny9U77exkeW9NBs",
+  "client_api_key": "1|U7qwVkq75LXVoclbbav43hTT3ny9U77exkeW9NBs",
+  "vps_creator_role_id": "1366646890942300200",
+  "bot_owner_user_id": "886324307385520128",
+  "panel_base_url": "https://vm.voidnodes.xyz",
+  "channel_ids": {
+    "vps_log": "1368427007628542003",
+    "admin_vps_approval": "1368427007628542003"
+  },
+  "reward_plans_enabled": {
+    "boost": true,
+    "invite": true
+  },
+  "defaults": {
+    "node_id": 1,
+    "template_uuid": "64eb6c9c-4942-4700-b824-6969aa06ba94",
+    "user_snapshot_limit": 0,
+    "user_backup_limit": 0,
+    "admin_snapshot_limit": 0,
+    "admin_backup_limit": 0,
+    "admin_allocation_limit": 0,
+    "admin_database_limit": 0,
+    "user_total_backup_limit": 0,
+    "default_server_hostname_suffix": "local",
+    "default_location_id": 1
+  },
+  "paid_plans_data": [
+    {
+      "emoji": "💰",
+      "name": "Nano Plan",
+      "price": "2",
+      "ram_gb": 8,
+      "cpu_cores": 2,
+      "disk_gb": 30
+    },
+    {
+      "emoji": "💰",
+      "name": "Basic Plan",
+      "price": "4",
+      "ram_gb": 16,
+      "cpu_cores": 4,
+      "disk_gb": 50
+    },
+    {
+      "emoji": "💰",
+      "name": "Standard Plan",
+      "price": "6",
+      "ram_gb": 24,
+      "cpu_cores": 6,
+      "disk_gb": 100
+    },
+    {
+      "emoji": "💰",
+      "name": "Pro Plan",
+      "price": "12",
+      "ram_gb": 32,
+      "cpu_cores": 8,
+      "disk_gb": 256
+    },
+    {
+      "emoji": "💰",
+      "name": "Elite Plan",
+      "price": "14",
+      "ram_gb": 48,
+      "cpu_cores": 12,
+      "disk_gb": 384
+    },
+    {
+      "emoji": "💰",
+      "name": "Extreme Plan",
+      "price": "16",
+      "ram_gb": 64,
+      "cpu_cores": 24,
+      "disk_gb": 512
+    }
+  ],
+  "boost_reward_tiers": [
+    {
+      "emoji": "🚀",
+      "name": "2x Boost Reward",
+      "server_boosts_required": 2,
+      "ram_gb": 16,
+      "cpu_cores": 4,
+      "disk_gb": 100,
+      "snapshot_limit": 2,
+      "backup_limit": 0,
+      "allocation_limit": 1,
+      "database_limit": 1,
+      "minimum_server_tier_required": 1
+    },
+    {
+      "emoji": "🚀",
+      "name": "4x Boost Reward",
+      "server_boosts_required": 4,
+      "ram_gb": 32,
+      "cpu_cores": 8,
+      "disk_gb": 192,
+      "snapshot_limit": 3,
+      "backup_limit": 0,
+      "allocation_limit": 2,
+      "database_limit": 2,
+      "minimum_server_tier_required": 2
+    },
+    {
+      "emoji": "🚀",
+      "name": "6x Boost Reward",
+      "server_boosts_required": 6,
+      "ram_gb": 48,
+      "cpu_cores": 12,
+      "disk_gb": 256,
+      "snapshot_limit": 3,
+      "backup_limit": 0,
+      "allocation_limit": 0,
+      "database_limit": 0,
+      "minimum_server_tier_required": 3
+    }
+  ],
+  "invite_reward_tiers": [
+    {
+      "emoji": "💌",
+      "name": "Bronze Invite Tier",
+      "invites_required": 3,
+      "ram_gb": 2,
+      "cpu_cores": 1,
+      "disk_gb": 20,
+      "snapshot_limit": 1,
+      "backup_limit": 0
+    },
+    {
+      "emoji": "💌",
+      "name": "Silver Invite Tier",
+      "invites_required": 6,
+      "ram_gb": 4,
+      "cpu_cores": 2,
+      "disk_gb": 60,
+      "snapshot_limit": 1,
+      "backup_limit": 0
+    },
+    {
+      "emoji": "💌",
+      "name": "Gold Invite Tier",
+      "invites_required": 9,
+      "ram_gb": 6,
+      "cpu_cores": 2,
+      "disk_gb": 60,
+      "snapshot_limit": 2,
+      "backup_limit": 0
+    },
+    {
+      "emoji": "💌",
+      "name": "Platinum Invite Tier",
+      "invites_required": 12,
+      "ram_gb": 8,
+      "cpu_cores": 3,
+      "disk_gb": 80,
+      "snapshot_limit": 2,
+      "backup_limit": 0
+    },
+    {
+      "emoji": "💌",
+      "name": "Diamond Invite Tier",
+      "invites_required": 16,
+      "ram_gb": 12,
+      "cpu_cores": 3,
+      "disk_gb": 100,
+      "snapshot_limit": 3,
+      "backup_limit": 0
+    },
+    {
+      "emoji": "💌",
+      "name": "Master Invite Tier",
+      "invites_required": 24,
+      "ram_gb": 16,
+      "cpu_cores": 4,
+      "disk_gb": 120,
+      "snapshot_limit": 3,
+      "backup_limit": 0
+    },
+    {
+      "emoji": "💌",
+      "name": "Grandmaster Invite Tier",
+      "invites_required": 35,
+      "ram_gb": 24,
+      "cpu_cores": 6,
+      "disk_gb": 160,
+      "snapshot_limit": 4,
+      "backup_limit": 0
+    }
+  ],
+  "node_ips_map": {
+    "US-1": "104.192.1.74",
+    "DE-1": "213.136.84.110"
+  },
+  "invite_check_delay_seconds": 5,
+  "bot_activity": {
+    "name": "Void Nodes",
+    "type": "streaming",
+    "stream_url": "https://www.twitch.tv/voidnodes"
+  },
+  "emojis": {
+    "success": "✅",
+    "error": "❌",
+    "info": "ℹ️",
+    "warning": "⚠️",
+    "loading": "⏳",
+    "confirm": "👍",
+    "cancel": "👎",
+    "vps_creator": "👑",
+    "owner": "🤖",
+    "admin": "🛡️",
+    "user": "👤",
+    "server": "🖥️",
+    "link": "🔗",
+    "unlink": "💔",
+    "credits": "📜",
+    "boost_plan": "🚀",
+    "invite_plan": "💌",
+    "paid_plan": "💰",
+    "plan_category": "📋",
+    "cpu": "⚙️",
+    "ram": "💾",
+    "disk": "📀",
+    "password": "🔑",
+    "power_on": "🟢",
+    "power_off": "🔴",
+    "power_restart": "🔄",
+    "power_kill": "💥",
+    "reinstall": "🛠️",
+    "delete": "🗑️",
+    "manage": "⚙️",
+    "nodes": "📡",
+    "convert": "🔄",
+    "links": "🔗",
+    "sync": "🔄",
+    "network": "🌐",
+    "online": "🟢",
+    "offline": "🔴",
+    "starting": "🟡",
+    "stopping": "🟠",
+    "unknown_status": "❓",
+    "timeout": "⏱️",
+    "conn_refused": "🚫",
+    "dns_error": "🌐",
+    "net_error": "🔌",
+    "latency_high": "🟧",
+    "latency_medium": "🟨",
+    "bar_green": "🟩",
+    "bar_yellow": "🟨",
+    "bar_red": "🟥",
+    "bar_empty": "⬜"
+  }
+}
