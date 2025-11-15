@@ -1,22 +1,22 @@
 {
-  "discord_token": "MTQzNzA2Mjg4NzY0OTcwNjEwNQ.GbxjQg.JQQ3X05_YTNvvDcgEe8ctRvgSZO1BS6vtk3FQY",
-  "convoy_api_url": "https://convoy.razzxzv.qzz.io",
-  "convoy_api_key": "1|B5LzamiPPNA2JaGqBhm7nuA9aFVJDTfbagmKjPBE",
-  "client_api_key": "1|B5LzamiPPNA2JaGqBhm7nuA9aFVJDTfbagmKjPBE",
+  "discord_token": "MTQzNzA2Mjg4NzY0OTcwNjEwNQ.GRaTVS.qLbEq1Z8G43VtkgYmE1q-td_1ltS4dByific-I",
+  "convoy_api_url": "https://vm.rnnodes.qzz.io",
+  "convoy_api_key": "1|IzVHN7MtECl0FS5TmegT3UtgFOdqpOSzNTC7jnfu",
+  "client_api_key": "1|IzVHN7MtECl0FS5TmegT3UtgFOdqpOSzNTC7jnfu",
   "vps_creator_role_id": "1437060846764294290",
   "bot_owner_user_id": "1437062887649706105",
-  "panel_base_url": "https://convoy.razzxzv.qzz.io",
+  "panel_base_url": "https://vm.rnnodes.qzz.io",
   "channel_ids": {
     "vps_log": "1378436095783735397",
     "admin_vps_approval": "1378436095783735397"
   },
   "reward_plans_enabled": {
     "boost": true,
-    "invite": true
+    "invite": true,
   },
   "defaults": {
     "node_id": 1,
-    "template_uuid": "64eb6c9c-4942-4700-b824-6969aa06ba94",
+    "template_uuid": "7376cf0c-e07c-4892-92bd-33541344e1de",
     "user_snapshot_limit": 0,
     "user_backup_limit": 0,
     "admin_snapshot_limit": 0,
@@ -42,7 +42,7 @@
       "cpu_cores": 4,
       "disk_gb": 100,
       "node_id": 1,
-      "template_uuid": "64eb6c9c-4942-4700-b824-6969aa06ba94"
+      "template_uuid": "7376cf0c-e07c-4892-92bd-33541344e1de"
     }
   ],
   "invite_reward_tiers": [
@@ -54,7 +54,7 @@
       "cpu_cores": 1,
       "disk_gb": 20,
       "node_id": 1,
-      "template_uuid": "64eb6c9c-4942-4700-b824-6969aa06ba94"
+      "template_uuid": "7376cf0c-e07c-4892-92bd-33541344e1de"
     }
   ],
   "node_ips_map": {
