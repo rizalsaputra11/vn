@@ -1,22 +1,21 @@
 {
-  "discord_token": "MTQzNzA2Mjg4NzY0OTcwNjEwNQ.GRaTVS.qLbEq1Z8G43VtkgYmE1q-td_1ltS4dByific-I",
+  "discord_token": "",
   "convoy_api_url": "https://vm.rnnodes.qzz.io",
   "convoy_api_key": "1|IzVHN7MtECl0FS5TmegT3UtgFOdqpOSzNTC7jnfu",
   "client_api_key": "1|IzVHN7MtECl0FS5TmegT3UtgFOdqpOSzNTC7jnfu",
   "vps_creator_role_id": "1437060846764294290",
-  "bot_owner_user_id": "1437062887649706105",
+  "bot_owner_user_id": "1378436095783735397",
   "panel_base_url": "https://vm.rnnodes.qzz.io",
   "channel_ids": {
-    "vps_log": "1378436095783735397",
     "admin_vps_approval": "1378436095783735397"
   },
   "reward_plans_enabled": {
     "boost": true,
-    "invite": true,
+    "invite": true
   },
   "defaults": {
-    "node_id": 1,
-    "template_uuid": "7376cf0c-e07c-4892-92bd-33541344e1de",
+    "node_id": 2,
+    "template_uuid": "18e787b4-ce03-44fb-ba53-57dc4791e855",
     "user_snapshot_limit": 0,
     "user_backup_limit": 0,
     "admin_snapshot_limit": 0,
@@ -41,8 +40,8 @@
       "ram_gb": 16,
       "cpu_cores": 4,
       "disk_gb": 100,
-      "node_id": 1,
-      "template_uuid": "7376cf0c-e07c-4892-92bd-33541344e1de"
+      "node_id": 2,
+      "template_uuid": "18e787b4-ce03-44fb-ba53-57dc4791e855"
     }
   ],
   "invite_reward_tiers": [
@@ -53,12 +52,12 @@
       "ram_gb": 2,
       "cpu_cores": 1,
       "disk_gb": 20,
-      "node_id": 1,
-      "template_uuid": "7376cf0c-e07c-4892-92bd-33541344e1de"
+      "node_id": 2,
+      "template_uuid": "18e787b4-ce03-44fb-ba53-57dc4791e855"
     }
   ],
   "node_ips_map": {
-    "US-1": "104.192.1.74"
+    "SG-1": "10.10.10.184"
   },
   "invite_check_delay_seconds": 5,
   "bot_activity": {
